@@ -90,19 +90,6 @@ Additionally, the project provides **business intelligence (BI) insights**, offe
 
 ---
 
-## **Folder Structure**
-
-```
-.
-├── app.py                 # Streamlit application
-├── model/                # Machine learning models
-├── data/                 # Sample datasets for testing
-├── utils/                # Helper functions for processing
-├── requirements.txt      # Dependencies
-├── README.md             # Documentation
-```
-
----
 
 ## **Contributing**
 Contributions are welcome! To contribute:
