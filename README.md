@@ -15,6 +15,7 @@ This project is developed as part of the Appian AI Application Challenge. It foc
 Additionally, the project provides **business intelligence (BI) insights**, offering actionable trends and operational efficiencies derived from document data.
 
 ---
+Kaggle Dataset: https://www.kaggle.com/datasets/ayoubcherguelaine/company-documents-dataset
 
 ## **Features**
 
