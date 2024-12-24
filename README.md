@@ -118,14 +118,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## **Acknowledgments**
-Special thanks to the Appian AI Application Challenge team for the opportunity and guidance.
-
----
-
 ## **Contact**
 For questions or feedback, contact:
 - **Name:** Sudharshana B
-- **Email:** [YourEmail@example.com]
-- **GitHub:** [YourGitHubProfileLink]
+- **Email:** [sudharshana426@gmail.com]
+- **GitHub:** [https://github.com/Sudharshana426]
 
